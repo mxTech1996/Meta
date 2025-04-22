@@ -45,7 +45,7 @@ export const dataSite = {
   name: 'Meta',
   url: 'http://w.w.w.terra.com',
   telephone: '5516455195',
-  email: 'info@ejemplo.com',
+  email: 'admmetacons@emailsecure.lat',
   address:
     'MONTECITO 38, PISO 33 OFICINA 27, NAPOLES, BENITO JUAREZ, CIUDAD DE MEXICO, C.P. 03810',
   description:
